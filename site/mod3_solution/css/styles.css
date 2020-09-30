@@ -57,6 +57,8 @@ body {
    margin-top: -70px;
    margin-right: 35px;
 }
+
+
 /* END HEADER */
 
 /*HOME PAGE */
@@ -123,7 +125,10 @@ h2{
  @media (min-width: 768px) and (max-width: 991px) {
     .container{
       width: 100%;
-      
+    }
+
+    .navbar-togle{
+      display:none;
     }
 }
   
